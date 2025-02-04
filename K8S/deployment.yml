@@ -14,6 +14,6 @@ spec:
     spec:
       containers:
       - name: hotstar
-        image: lokeshhs591/hotstar:10
+        image: lokeshhs591/hotstar:12
         ports:
         - containerPort: 3000
